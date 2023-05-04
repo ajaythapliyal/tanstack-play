@@ -1,0 +1,14 @@
+.container{
+    width : 500px;
+    background-color: #F5F5F5;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
